@@ -70,7 +70,7 @@ Com isso, consigo compartilhar com o time como otimizar os investimentos e enten
 
 ## 5. Inteligência de Negócio
 
-Trabalhei anos como gestora de tráfego e especialista em mídia online, tive a oportunidade de atuar em diversos segmentos, desde personal branding, marcas com foco mais institucional, e-commerce e lançamentos de infoprodutos. Essa bagagem foi fundamental para interpretar o comportamento dos dados e tomar decisões estratégicas ao lidar com outliers.
+Trabalhei anos como gestora de tráfego e especialista em mídia online, tive a oportunidade de atuar em diversos segmentos, desde personal branding, marcas com foco mais institucional, e-commerce a lançamentos de infoprodutos. Essa bagagem foi fundamental para interpretar o comportamento dos dados e tomar decisões estratégicas ao lidar com outliers.
 
 ### **O que aconteceu com os outliers?**
 Ao avaliar os dados fora da curva, decidi **não removê-los**, e aqui está o porquê:  
