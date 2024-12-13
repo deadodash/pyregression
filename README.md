@@ -84,13 +84,15 @@ Ao avaliar os dados fora da curva, decidi **não removê-los**, e aqui está o p
 ---
 
 ## **Resumo da ópera:** 
-1. O projeto mostrou que o modelo **Árvore de Decisão** foi o mais adequado para prever leads de campanhas digitais porque conseguiu lidar melhor com as relações não lineares entre as variáveis e os outliers. Sua flexibilidade em criar divisões específicas permitiu capturar as diferenças entre campanhas de captação e reconhecimento, resultando em previsões mais precisas e alinhadas com a realidade dos dados. 🚀  
-
-É super possível prever leads. Então, se você quer prever leads e otimizar campanhas, essa abordagem funciona bem. E, claro, com alguns ajustes, dá pra levar isso a outro nível! 🚀
+1. O projeto mostrou que o modelo **Árvore de Decisão** teve a menor taxa de erro para prever leads de campanhas digitais porque conseguiu lidar melhor com as relações não lineares entre as variáveis e os outliers. Isso porque o modelo tem flexibilidade em criar divisões específicas que permitiu capturar as diferenças entre as campanhas, resultando em previsões mais precisas e alinhadas com a realidade dos dados.  
 
 ---
 
 ### **Ajustes sugeridos para melhorar ainda mais:**
-1. Adicionar variáveis como sazonalidade, segmentação do público ou segmentar as campanhas por seus objetivos. 
-3. Validar com cross-validation e melhorar hiperparâmetros.  
-4. Incorporar dados de concorrência ou multicanais. 
+1. Adicionar variáveis como sazonalidade, segmentação do público ou segmentação das campanhas por seus objetivos. 
+2. Validar com cross-validation e melhorar hiperparâmetros.  
+3. Incorporar dados de concorrência ou multicanais. 
+
+---
+
+Finalizando... é super possível prever leads. Então, se você quer prever resultados e otimizar campanhas, essa abordagem funciona bem. E, claro, **com alguns ajustes**, dá pra levar isso a outro nível! 🚀 
