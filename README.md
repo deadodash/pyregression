@@ -20,8 +20,8 @@ Com isso, consigo compartilhar com o time como otimizar os investimentos e enten
 - Converti os valores monetários e porcentagens para números de verdade (o modelo não lê strings)
 
 ### **As ferramentas:**  
-Google Colab
-Python (o meu mais novo queridinho 🐍) com Pandas, NumPy, Scikit-Learn,Matplotlib e Plotly
+- Google Colab
+- Python (o meu mais novo queridinho 🐍) com Pandas, NumPy, Scikit-Learn,Matplotlib e Plotly
 
 ---
 
